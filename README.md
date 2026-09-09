@@ -24,7 +24,10 @@ python test_direct.py
 
 Core Files
 geometric_segmentation.py: Core geometry engine (Box3D, GeometricSegmentation, B3DMTileBuilder).
+
 pipeline_logic.py: End-to-end orchestration (loads data, validates overlaps, exports tiles).
 test_direct.py: Quick verification test using synthetic data.
+
 data/raw/: Input folder for your GeoJSON and JSON files.
+
 data/processed/: Output folder for generated .b3dm files
