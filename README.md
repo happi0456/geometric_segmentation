@@ -1,4 +1,4 @@
-Note: I couldn't actually test this end-to-end because installing py3dtiles threw a C++/CMake build error on my machine. Hopefully the code works out-of-the-box! Also, please note that test_standalone.py doesn't exist in the repo—use test_direct.py for testing instead.
+Note: I couldn't actually test this end-to-end because installing py3dtiles threw a C++/CMake build error on my machine. Hopefully the code works out-of-the-box
 --- 
 2D floor plan polygons (GeoJSON) and floor height ranges (JSON) into watertight 3D volumetric building models in OGC 3D Tiles format (.b3dm)
 
