@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BLD_01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-73.9857, 40.7484],
+            [-73.9857, 40.7488],
+            [-73.9850, 40.7488],
+            [-73.9850, 40.7484],
+            [-73.9857, 40.7484]
+          ]
+        ]
+      }
+    }
+  ]
+}
